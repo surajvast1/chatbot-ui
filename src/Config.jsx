@@ -5,7 +5,7 @@ import WebDevelopment from "./widgets/WebDevelopment";
 import Tools from "./widgets/Tools";
 import WeatherInfo from "./widgets/WeatherInfo";
 
-const botName = "keyur kakadiya";
+const botName = "Team Sustainability";
 //congig for chatbot
 const config = {
   botName: botName,
